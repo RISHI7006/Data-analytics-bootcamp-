@@ -1,1 +1,1 @@
-  data details and work
+   data details and work of analytics 
